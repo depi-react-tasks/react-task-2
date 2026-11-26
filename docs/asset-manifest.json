@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-task-2/static/css/main.13b77755.css",
+    "main.js": "/react-task-2/static/js/main.ae369b79.js",
+    "static/media/fa-solid-900.ttf": "/react-task-2/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/react-task-2/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/project.PNG": "/react-task-2/static/media/project.22f208509d0057e97321.PNG",
+    "static/media/fa-solid-900.woff2": "/react-task-2/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/react-task-2/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/react-task-2/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/react-task-2/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/photo-1620207418302-439b387441b0.jpg": "/react-task-2/static/media/photo-1620207418302-439b387441b0.35903410cf8693e2b834.jpg",
+    "static/media/app-store-badge.svg": "/react-task-2/static/media/app-store-badge.15f01eefb2013206cc7e26d98fbe95fb.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-task-2/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/google-play-badge.svg": "/react-task-2/static/media/google-play-badge.903c5d5821b0ea694ef83d32c8a18893.svg",
+    "static/media/tnw-logo.svg": "/react-task-2/static/media/tnw-logo.a96e9e5b1e93e2851f670ab411d632ef.svg",
+    "static/media/fa-v4compatibility.woff2": "/react-task-2/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/react-task-2/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.13b77755.css",
+    "static/js/main.ae369b79.js"
+  ]
+}
