@@ -5,6 +5,7 @@ import Device from './components/Device';
 import Age from './components/Age';
 import Download from './components/Download';
 import AppSection from './components/AppSection';
+import People from './components/People';
 
 // the whole page is made of small components
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Age />
       <Download />
       <AppSection />
+      <People />
     </div>
   );
 }
