@@ -294,10 +294,24 @@ End Footer Section
 =======================
 */
 
+/* 
+=======================
+Start People Section
+=======================
+*/
 
+.people{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
 
+.people h5{
+    color: #555;
+}
 
-
-
-
+/* 
+=======================
+End People Section
+=======================
+*/
 
