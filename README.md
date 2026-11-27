@@ -30,3 +30,10 @@ Live demo: https://depi-react-tasks.github.io/react-task-2/
 ## Note
 The `docs` folder is the production build (`npm run build`), it is used for GitHub Pages.
 The Unsplash links in the original files don't work anymore, so I used the photo from the assets folder.
+
+## Task 3: props and map
+I added a new section at the bottom of the page. It shows 5 people, and the data comes from an array of objects.
+- `People.js` has the array of objects and uses `map` to make a component for every object.
+- `Person.js` is the component that takes the data with `props` (name, color, id).
+
+![people](screenshots/people.png)
