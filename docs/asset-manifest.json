@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-task-2/static/css/main.da011860.css",
-    "main.js": "/react-task-2/static/js/main.a4a2e0d9.js",
+    "main.css": "/react-task-2/static/css/main.c6a537d9.css",
+    "main.js": "/react-task-2/static/js/main.80afae7d.js",
     "static/media/fa-solid-900.ttf": "/react-task-2/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/react-task-2/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/project.PNG": "/react-task-2/static/media/project.22f208509d0057e97321.PNG",
@@ -16,11 +16,11 @@
     "static/media/tnw-logo.svg": "/react-task-2/static/media/tnw-logo.a96e9e5b1e93e2851f670ab411d632ef.svg",
     "static/media/fa-v4compatibility.woff2": "/react-task-2/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/react-task-2/index.html",
-    "main.da011860.css.map": "/react-task-2/static/css/main.da011860.css.map",
-    "main.a4a2e0d9.js.map": "/react-task-2/static/js/main.a4a2e0d9.js.map"
+    "main.c6a537d9.css.map": "/react-task-2/static/css/main.c6a537d9.css.map",
+    "main.80afae7d.js.map": "/react-task-2/static/js/main.80afae7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.da011860.css",
-    "static/js/main.a4a2e0d9.js"
+    "static/css/main.c6a537d9.css",
+    "static/js/main.80afae7d.js"
   ]
 }
